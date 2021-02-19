@@ -1,2 +1,3 @@
 # Harmonica-Tabs
-Harmonica Tabs of random songs
+Harmonica Tabs of Random Songs
+C Diatonic Harmonica
